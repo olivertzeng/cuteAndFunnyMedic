@@ -2,7 +2,7 @@
 
 Showcase:
 
-![video](https://youtu.be/Jd81ZlIRYfI)
+https://youtu.be/Jd81ZlIRYfI
 
 basically changes the Medic's Medi Gun's healing sound and all heal particles
 
