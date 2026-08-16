@@ -1,15 +1,13 @@
-# cunnyMedic tf2 mod
+# Cute and Funny TF2 mod
 
-Showcase:
+Changes medigun and dispensers healing particles to 💢😭 and change the Medi Gun's healing sounds
 
-https://youtu.be/Jd81ZlIRYfI
+Showcase video: https://www.youtube.com/watch?v=Jd81ZlIRYfI
 
-basically changes the Medic's Medi Gun's healing sound and all heal particles
-
-just put it in a casual preloader and enjoy
+Works with casuals
 
 UGWOOO CUTE AND FUNNY CUTE AND FUNNY
 
-A gift to all the Sensei's out there
+## Instructions
 
-Hope you enjoyed it
+Use cueki's casual preloader https://cueki.github.io/casual-pre-loader and then drag the .vpk into the window. After that, go to the particles tab and then disable Simple Mode in the botton right, enable the mod and then you're good to go!
